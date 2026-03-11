@@ -1,4 +1,6 @@
-# Photopigment Bleaching worksheet
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18946338.svg)](https://doi.org/10.5281/zenodo.18946338)
+
+# Photopigment Bleaching Worksheet
 
 A quantitative photometric and radiometric framework for simulating retinal photopigment bleaching under brief flash stimulation.
 
@@ -86,5 +88,17 @@ Vienola KV, Valente D, Zawadzki RJ, Jonnal RS. Velocity-based optoretinography f
 $^{1}$ Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA  
 
 $^{2}$ EyePOD Imaging Lab, Department of Cell Biology and Human Anatomy, University of California, Davis, CA 95616, USA
+
+## Citation
+
+If you use this notebook in your research, please cite:
+
+Maddipatla, R., Zawadzki, R. J., & Jonnal, R. S. (2026).  
+Photopigment bleaching calculation and simulation notebook (Version 1.0).  
+Zenodo. https://doi.org/10.5281/zenodo.18946338
+
+## License
+
+This project is released under the MIT License.
 
 
