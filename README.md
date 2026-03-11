@@ -94,11 +94,11 @@ $^{2}$ EyePOD Imaging Lab, Department of Cell Biology and Human Anatomy, Univers
 If you use this notebook in your research, please cite:
 
 Maddipatla, R., Zawadzki, R. J., & Jonnal, R. S. (2026).  
-Photopigment bleaching calculation and simulation notebook (Version 1.0).  
+*Photopigment bleaching calculation and simulation notebook* (Version 1.0).  
 Zenodo. https://doi.org/10.5281/zenodo.18946338
 
 ## License
 
-This project is released under the MIT License.
+This project is distributed under the MIT License.
 
 
