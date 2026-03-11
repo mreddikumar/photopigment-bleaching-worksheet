@@ -83,7 +83,7 @@ Vienola KV, Valente D, Zawadzki RJ, Jonnal RS. Velocity-based optoretinography f
 
 ## Authors
 
-**Reddikumar Maddipatla**$^{1,2}$, **Robert J. Zawadzki**$^{1,2}$, and  **Ravi S. Jonnal**$^{1}$  
+**Reddikumar Maddipatla**$^{1,2}$, **Yao Cai**$^{1}$, **Robert J. Zawadzki**$^{1,2}$, and  **Ravi S. Jonnal**$^{1}$  
 
 $^{1}$ Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA  
 
