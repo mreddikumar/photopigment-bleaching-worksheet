@@ -6,10 +6,10 @@ A quantitative photometric and radiometric framework for simulating retinal phot
 
 This repository contains a Jupyter notebook implementing:
 
-- First-order exponential bleaching model 
+- A first-order exponential bleaching model for cone photoreceptors
 - Retinal illuminance (Trolands) calculations  
-- Radiant power ↔ bleach % inversion  
-- Photon count and photon density computation  
+- Radiant power ↔ bleaching percentage inversion  
+- Photon count and photon density computations  
 - CIE 1931 photopic luminous efficiency integration  
 
 
