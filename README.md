@@ -2,7 +2,7 @@
 
 # Photopigment Bleaching Worksheet
 
-A quantitative photometric and radiometric framework for simulating retinal photopigment bleaching under brief flash stimulation.
+A quantitative photometric and radiometric framework for simulating retinal cone photopigment bleaching under brief flash stimulation.
 
 This repository contains a Jupyter notebook implementing:
 
