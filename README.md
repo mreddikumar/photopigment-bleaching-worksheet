@@ -91,10 +91,10 @@ $^{2}$ EyePOD Imaging Lab, Department of Cell Biology and Human Anatomy, Univers
 
 ## Citation
 
-If you use this notebook in your research, please cite:
+If you use this code, please cite:
 
-Maddipatla, R., Zawadzki, R. J., & Jonnal, R. S. (2026).  
-*Photopigment bleaching calculation and simulation notebook* (Version 1.0).  
+Maddipatla, R., Cai, Y., Zawadzki, R. J., & Jonnal, R. S. (2026).
+Photopigment bleaching calculation and simulation notebook (Version 1.0).
 Zenodo. https://doi.org/10.5281/zenodo.18946338
 
 ## License
