@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18946338.svg)](https://doi.org/10.5281/zenodo.18946338)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18988166.svg)](https://doi.org/10.5281/zenodo.18988166)
 
 # Photopigment Bleaching Worksheet
 
@@ -91,12 +91,28 @@ $^{2}$ EyePOD Imaging Lab, Department of Cell Biology and Human Anatomy, Univers
 
 ## Citation
 
-If you use this code, please cite:
+If you use this code in your research, please cite:
 
-Maddipatla, R., Cai, Y., Zawadzki, R. J., & Jonnal, R. S. (2026).
-Photopigment bleaching calculation and simulation notebook (Version 1.0).
-Zenodo. https://doi.org/10.5281/zenodo.18946338
+Maddipatla, R., Cai, Y., Zawadzki, R. J., & Jonnal, R. S. (2026).  
+*Photopigment bleaching calculation and simulation notebook* (Version 1.1).  
+Zenodo. https://doi.org/10.5281/zenodo.18988166
 
+### BibTeX
+
+```bibtex
+@software{maddipatla_photopigment_bleaching_2026,
+  author       = {Maddipatla, Reddikumar and
+                  Cai, Yao and
+                  Zawadzki, Robert J. and
+                  Jonnal, Ravi S.},
+  title        = {Photopigment Bleaching Calculation and Simulation Notebook},
+  version      = {1.1},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18988166},
+  url          = {https://doi.org/10.5281/zenodo.18988166}
+}
+```
 ## License
 
 This project is distributed under the MIT License.
