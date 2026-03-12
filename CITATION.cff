@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Photopigment bleaching calculation and simulation notebook
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+
+* family-names: Maddipatla
+  given-names: Reddikumar
+  affiliation: Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA; EyePOD Imaging Lab, Department of Cell Biology and Human Anatomy, University of California, Davis, CA 95616, USA
+
+* family-names: Cai
+  given-names: Yao
+  affiliation: Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA
+
+* family-names: Zawadzki
+  given-names: Robert J.
+  affiliation: Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA; EyePOD Imaging Lab, Department of Cell Biology and Human Anatomy, University of California, Davis, CA 95616, USA
+
+* family-names: Jonnal
+  given-names: Ravi S.
+  affiliation: Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA
+
+repository-code: https://github.com/mreddikumar/photopigment-bleaching-worksheet
+license: MIT
